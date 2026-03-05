@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Little Red Riding Hood - Page 10</title>
+  <link rel="stylesheet" href="style.css">
+   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="./assets/css/styles.css">
+</head>
+<body class="story-page">
+<div class="d-flex justify-content-center align-items-center vh-100">
+    <div class="text-center">
+   
+
+    <p class="fs-3">
+     Red went up to have a closer look “Grandmother, what big eyes, teeth, and hands you have!” The wolf suddenly 
+     <a href="page12.html" class="inline-link">jumps </a>up.
+    </p>
+    </p>
+  </div>
+  </div>
+</body>
+</html>
